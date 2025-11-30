@@ -19,7 +19,7 @@
 
 > *"One must imagine Sisyphus happy."* ⛰️
 
-I am a Sophomore at **SWUFE (Southwestern University of Finance and Economics)**, studying in the **Top Experimental Class for Computer Science**. 
+I am a Sophomore at **SWUFE (Southwestern University of Finance and Economics)**, studying in the Computer Science. 
 
 My passion lies at the intersection of **FinTech** and **Artificial Intelligence**. I am currently exploring how Multi-Agent systems can solve complex financial logic.
 

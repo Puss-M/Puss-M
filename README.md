@@ -22,7 +22,7 @@
 
 > *"One must imagine Sisyphus happy."* ⛰️
 
-I am a Sophomore at **SWUFE (Southwestern University of Finance and Economics)**, studying in the **Top Experimental Class for Computer Science**. 
+I am a Sophomore at **SWUFE (Southwestern University of Finance and Economics)**, studying in the **Experimental Class for Computer Science**. 
 
 I operate at the intersection of **FinTech** and **Web Engineering**. I am passionate about building tools that help people think better—from **Multi-Agent Systems** to **Knowledge Management Tools**.
 

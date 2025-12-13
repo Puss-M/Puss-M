@@ -40,18 +40,13 @@ I am a Sophomore at **SWUFE**, studying in the **Experimental Class for Computer
         </a>
       </td>
       <td valign="top" width="50%">
-        <a href="https://github.com/Puss-M/CinyaMa-Blog">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=CinyaMa-Blog&theme=tokyonight&hide_border=true&icon_color=fff&description=My+personal+sanctuary+for+philosophy+and+tech" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
         <a href="https://github.com/Puss-M/team-spark">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=team-spark&theme=tokyonight&hide_border=true&icon_color=fff&description=Igniting+ideas+with+collaborative+code+experiments" />
         </a>
       </td>
-      <td valign="top" width="50%">
+    </tr>
+    <tr>
+      <td valign="top" colspan="2" align="center">
         <a href="https://github.com/Puss-M/team-lab">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=team-lab&theme=tokyonight&hide_border=true&icon_color=fff&description=Experimental+workspace+for+bleeding-edge+tech" />
         </a>

@@ -8,7 +8,7 @@
   <br/>
 
   <p>
-    <a href="https://cinyama.vercel.app"><img src="https://img.shields.io/badge/Blog-CinyaMa-black?style=for-the-badge&logo=hugo&logoColor=white"/></a>
+    <a href="https://cinyama.gofintech.cn"><img src="https://img.shields.io/badge/Blog-CinyaMa-black?style=for-the-badge&logo=hugo&logoColor=white"/></a>
     <a href="mailto:2046148342@qq.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://github.com/Puss-M?tab=repositories"><img src="https://img.shields.io/badge/Repos-Browse%20All-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
   </p>

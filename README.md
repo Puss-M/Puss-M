@@ -23,8 +23,8 @@
 I am a Sophomore at **SWUFE**, studying in the **Experimental Class for Computer Science**. I operate at the intersection of **FinTech** and **Web Engineering**.
 
 - 🔭 I’m currently building:
-    - **Digital Garden MVP**: A non-linear knowledge exploration interface.
-    - **BettaFish**: Multi-Agent orchestration system.
+    - **spark.gofintech.cn**:a platform for idea exchanging.
+    - **foodmeno.gofintech.cn**:sharing daily food
 - ♟️ Hobbies: Chinese Chess (Xiangqi), 10-hole Blues Harmonica.
 
 ---

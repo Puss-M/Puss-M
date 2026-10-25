@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Cinya%20Ma&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CS%20x%20Finance%20%7C%20Building%20Digital%20Gardens&descAlignY=55&descSize=20" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Sophomore+at+SWUFE;FinTech+%26+Web+Engineering;Sisyphus+building+Digital+Gardens" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Sophomore+at+SWUFE;FinTech+%26+Web+Engineering;Sisyphus+building+Digital+Gardens" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -25,6 +25,7 @@ I am a Sophomore at **SWUFE**, studying in the **Experimental Class for Computer
 - 🔭 I’m currently building:
     - **spark.gofintech.cn**:a platform for idea exchanging.
     - **foodmeno.gofintech.cn**:sharing daily food
+    - **[wechat-cli](https://github.com/Puss-M/wechat-cli)**: free local CLI for exporting my own WeChat Moments & data
 - ♟️ Hobbies: Chinese Chess (Xiangqi), 10-hole Blues Harmonica.
 
 ---
@@ -35,20 +36,25 @@ I am a Sophomore at **SWUFE**, studying in the **Experimental Class for Computer
   <table>
     <tr>
       <td valign="top" width="50%">
-        <a href="https://github.com/Puss-M/Domino-Agent">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=Domino-Agent&theme=tokyonight&hide_border=true&icon_color=fff" />
+        <a href="https://github.com/Puss-M/wechat-cli">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=wechat-cli&theme=tokyonight&hide_border=true&icon_color=fff" />
         </a>
       </td>
       <td valign="top" width="50%">
-        <a href="https://github.com/Puss-M/team-spark">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=team-spark&theme=tokyonight&hide_border=true&icon_color=fff&description=Igniting+ideas+with+collaborative+code+experiments" />
+        <a href="https://github.com/Puss-M/certificate-evidence-system">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=certificate-evidence-system&theme=tokyonight&hide_border=true&icon_color=fff" />
         </a>
       </td>
     </tr>
     <tr>
-      <td valign="top" colspan="2" align="center">
-        <a href="https://github.com/Puss-M/team-lab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=team-lab&theme=tokyonight&hide_border=true&icon_color=fff&description=Experimental+workspace+for+bleeding-edge+tech" />
+      <td valign="top" width="50%">
+        <a href="https://github.com/Puss-M/Never-Reinvent-the-Wheel">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=Never-Reinvent-the-Wheel&theme=tokyonight&hide_border=true&icon_color=fff" />
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://github.com/Puss-M/Domino-Agent">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puss-M&repo=Domino-Agent&theme=tokyonight&hide_border=true&icon_color=fff" />
         </a>
       </td>
     </tr>
@@ -92,7 +98,7 @@ I am a Sophomore at **SWUFE**, studying in the **Experimental Class for Computer
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puss-M&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Puss-M&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak stats"/>
 </div>
 
 <div align="center">

@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+
+# 每天北京时间 0 点重新生成贡献贪吃蛇动画，推送到 output 分支
+# README 中通过 blob/output/github-contribution-grid-snake.svg 引用
+on:
+  schedule:
+    - cron: "0 16 * * *"  # UTC 16:00 = 北京时间次日 00:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

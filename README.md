@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Cinya%20Ma&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CS%20x%20Finance%20%7C%20Building%20Digital%20Gardens&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Cinya%20Ma&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Computational%20Imaging%20%C3%97%20Neural%20Operators&descAlignY=55&descSize=20" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Sophomore+at+SWUFE;FinTech+%26+Web+Engineering;Sisyphus+building+Digital+Gardens" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=520&lines=Undergraduate+at+SWUFE;Computational+Imaging+%26+Neural+Operators;Sisyphus+building+Digital+Gardens" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -20,13 +20,24 @@
 
 > *"One must imagine Sisyphus happy."* 🪨
 
-I am a Sophomore at **SWUFE**, studying in the **Experimental Class for Computer Science**. I operate at the intersection of **FinTech** and **Web Engineering**.
+I am an undergraduate at **SWUFE**, in the **Experimental Class for Computer Science**. I started out shipping web apps; these days I spend most of my time on **computational imaging and inverse problems**, and keep the web habit as a hobby.
 
-- 🔭 I’m currently building:
-    - **spark.gofintech.cn**:a platform for idea exchanging.
-    - **foodmeno.gofintech.cn**:sharing daily food
-    - **[wechat-cli](https://github.com/Puss-M/wechat-cli)**: free local CLI for exporting my own WeChat Moments & data
-- ♟️ Hobbies: Chinese Chess (Xiangqi), 10-hole Blues Harmonica.
+- 🔬 **Research**: Fourier single-pixel imaging under sparse measurements, neural operators (FNO / spectral methods), and unrolled reconstruction for MRI.
+- 🔭 **Building**: **[wechat-cli](https://github.com/Puss-M/wechat-cli)** — a free local CLI for exporting my own WeChat data — and **spark.gofintech.cn**, a small platform for idea exchange.
+- ♟️ **Hobbies**: Chinese Chess (Xiangqi), 10-hole Blues Harmonica.
+
+---
+
+### 🔬 Research Interests
+
+| Area | What I work on |
+|---|---|
+| **Fourier single-pixel imaging** | quality-first reconstruction from extremely sparse Fourier measurements; mask/PSF aliasing analysis; generalization across sampling rates |
+| **Neural operators** | Fourier neural operators, complex-valued spectral branches, and honest attribution against CNN baselines |
+| **Inverse problems** | ADMM / unrolled networks, hard data consistency, MRI undersampling reconstruction |
+| **3D vision** | 3D Gaussian Splatting (an earlier line, kept as background) |
+
+Research code and experiment logs stay in private repos; public notes and longer write-ups go to [my blog](https://cinyama.gofintech.cn).
 
 ---
 
@@ -83,7 +94,7 @@ I am a Sophomore at **SWUFE**, studying in the **Experimental Class for Computer
   <br/>
   
   <b>Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=notion,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=notion,postman,figma,vscode,latex" />
   
 </div>
 
